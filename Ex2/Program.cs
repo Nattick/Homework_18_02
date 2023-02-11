@@ -1,7 +1,5 @@
-﻿
-
-int a = 8;
-int b = 8;
+﻿int a = 8;
+int b = 56;
 int max = a;
 int min = b;
 
@@ -23,3 +21,4 @@ if (max < min)
     Console.WriteLine();
     Console.Write("min=");
     Console.Write(max);
+}
