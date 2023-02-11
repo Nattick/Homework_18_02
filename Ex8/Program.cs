@@ -1,4 +1,4 @@
-﻿double a =1;
+﻿double a =13;
 double N = 1;
 while (N <= a)
 {
