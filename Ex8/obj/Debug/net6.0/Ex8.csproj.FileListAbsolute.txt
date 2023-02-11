@@ -1,0 +1,15 @@
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex8/obj/Debug/net6.0/Ex8.csproj.AssemblyReference.cache
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex8/obj/Debug/net6.0/Ex8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex8/obj/Debug/net6.0/Ex8.AssemblyInfoInputs.cache
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex8/obj/Debug/net6.0/Ex8.AssemblyInfo.cs
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex8/obj/Debug/net6.0/Ex8.csproj.CoreCompileInputs.cache
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex8/bin/Debug/net6.0/Ex8
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex8/bin/Debug/net6.0/Ex8.deps.json
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex8/bin/Debug/net6.0/Ex8.runtimeconfig.json
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex8/bin/Debug/net6.0/Ex8.dll
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex8/bin/Debug/net6.0/Ex8.pdb
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex8/obj/Debug/net6.0/Ex8.dll
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex8/obj/Debug/net6.0/refint/Ex8.dll
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex8/obj/Debug/net6.0/Ex8.pdb
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex8/obj/Debug/net6.0/Ex8.genruntimeconfig.cache
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex8/obj/Debug/net6.0/ref/Ex8.dll
